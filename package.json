@@ -1,0 +1,24 @@
+{
+  "name": "paintastic-netlify",
+  "version": "1.0.0",
+  "description": "Paintastic is an interactive digital whiteboard designed for drawing, sketching, coloring, and creative expression.",
+  "main": "pwa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshigt/Paintastic-Creative-Whiteboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/divyanshigt/Paintastic-Creative-Whiteboard/issues"
+  },
+  "homepage": "https://github.com/divyanshigt/Paintastic-Creative-Whiteboard#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
