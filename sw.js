@@ -2,7 +2,7 @@
 'use strict';
 
 // Increase version whenever app files change.
-const VERSION = '1.1.0';
+const VERSION = '1.0.1';
 
 const PREFIX =
   'paintastic-shell-' +
